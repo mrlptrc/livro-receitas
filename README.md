@@ -3,5 +3,5 @@
 
 Seja bem-vindo ao livro de receitas!
 
-- strogonoff de frango
+- Strogonoff de frango
 
